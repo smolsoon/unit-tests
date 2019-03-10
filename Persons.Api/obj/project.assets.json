@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksmol\\Programming\\unit-tests\\Person.Api\\Person.Api.csproj",
-      "projectName": "Person.Api",
-      "projectPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Person.Api\\Person.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ksmol\\Programming\\unit-tests\\Persons.Api\\Persons.Api.csproj",
+      "projectName": "Persons.Api",
+      "projectPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Persons.Api\\Persons.Api.csproj",
       "packagesPath": "C:\\Users\\ksmol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Person.Api\\obj\\",
+      "outputPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Persons.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

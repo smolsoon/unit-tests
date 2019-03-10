@@ -5760,11 +5760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksmol\\Programming\\unit-tests\\Person.Tests\\Person.Tests.csproj",
-      "projectName": "Person.Tests",
-      "projectPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Person.Tests\\Person.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ksmol\\Programming\\unit-tests\\Persons.Tests\\Persons.Tests.csproj",
+      "projectName": "Persons.Tests",
+      "projectPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Persons.Tests\\Persons.Tests.csproj",
       "packagesPath": "C:\\Users\\ksmol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Person.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\Persons.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
