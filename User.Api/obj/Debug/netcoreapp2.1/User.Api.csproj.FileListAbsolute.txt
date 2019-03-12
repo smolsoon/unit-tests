@@ -1,0 +1,14 @@
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.csprojAssemblyReference.cache
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.csproj.CoreCompileInputs.cache
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.RazorAssemblyInfo.cache
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.RazorAssemblyInfo.cs
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.AssemblyInfoInputs.cache
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.AssemblyInfo.cs
+C:\Users\ksmol\Programming\unit-tests\User.Api\bin\Debug\netcoreapp2.1\User.Api.deps.json
+C:\Users\ksmol\Programming\unit-tests\User.Api\bin\Debug\netcoreapp2.1\User.Api.runtimeconfig.json
+C:\Users\ksmol\Programming\unit-tests\User.Api\bin\Debug\netcoreapp2.1\User.Api.runtimeconfig.dev.json
+C:\Users\ksmol\Programming\unit-tests\User.Api\bin\Debug\netcoreapp2.1\User.Api.dll
+C:\Users\ksmol\Programming\unit-tests\User.Api\bin\Debug\netcoreapp2.1\User.Api.pdb
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.dll
+C:\Users\ksmol\Programming\unit-tests\User.Api\obj\Debug\netcoreapp2.1\User.Api.pdb
