@@ -1,13 +1,14 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "72f9dd2b21310a3473907db48724bb4799b9eb11"
+    "signature": "76b2fde3cefe48b3cbf81e6dc25aac7db61c87d9"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "User.XUnit/1.0.0": {
         "dependencies": {
+          "FluentAssertions": "4.19.2",
           "Microsoft.NET.Test.Sdk": "15.7.0",
           "Moq": "4.10.1",
           "User.Api": "1.0.0",
@@ -46,6 +47,21 @@
           "lib/netstandard1.5/Castle.Core.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.3.1.0"
+          }
+        }
+      },
+      "FluentAssertions/4.19.2": {
+        "dependencies": {
+          "System.Reflection.TypeExtensions": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/FluentAssertions.Core.dll": {
+            "assemblyVersion": "4.19.2.0",
+            "fileVersion": "4.19.2.0"
+          },
+          "lib/netstandard1.3/FluentAssertions.dll": {
+            "assemblyVersion": "4.19.2.0",
+            "fileVersion": "4.19.2.0"
           }
         }
       },
@@ -1326,6 +1342,13 @@
       "sha512": "sha512-Dx90A7xzdyYiaq1aMn3QmblpFAaVhDCiZkSblt96pf8QopOjLxCcs5ufKJA1zyg2L+Hxjnzx3JNrmfK8ZMRHvA==",
       "path": "castle.core/4.3.1",
       "hashPath": "castle.core.4.3.1.nupkg.sha512"
+    },
+    "FluentAssertions/4.19.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ExWKdNCgm9c5Fm44ZW3GF6ZJl9L+NwaLWTlkSDMG4eDBjWZDwy98lEjqAevjFNiEyQKdA73wKXNrymwjNI2ljw==",
+      "path": "fluentassertions/4.19.2",
+      "hashPath": "fluentassertions.4.19.2.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/1.0.3": {
       "type": "package",
