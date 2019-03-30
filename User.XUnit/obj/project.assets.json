@@ -6903,11 +6903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksmol\\Programming\\unit-tests\\User.XUnit\\User.XUnit.csproj",
+      "projectUniqueName": "c:\\Users\\ksmol\\Programming\\unit-tests\\User.XUnit\\User.XUnit.csproj",
       "projectName": "User.XUnit",
-      "projectPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\User.XUnit\\User.XUnit.csproj",
+      "projectPath": "c:\\Users\\ksmol\\Programming\\unit-tests\\User.XUnit\\User.XUnit.csproj",
       "packagesPath": "C:\\Users\\ksmol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\User.XUnit\\obj\\",
+      "outputPath": "c:\\Users\\ksmol\\Programming\\unit-tests\\User.XUnit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6926,8 +6926,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ksmol\\Programming\\unit-tests\\User.Api\\User.Api.csproj": {
-              "projectPath": "C:\\Users\\ksmol\\Programming\\unit-tests\\User.Api\\User.Api.csproj"
+            "c:\\Users\\ksmol\\Programming\\unit-tests\\User.Api\\User.Api.csproj": {
+              "projectPath": "c:\\Users\\ksmol\\Programming\\unit-tests\\User.Api\\User.Api.csproj"
             }
           }
         }

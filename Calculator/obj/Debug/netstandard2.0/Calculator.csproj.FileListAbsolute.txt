@@ -1,0 +1,9 @@
+C:\Users\ksmol\Programming\unit-tests\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\ksmol\Programming\unit-tests\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\ksmol\Programming\unit-tests\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\ksmol\Programming\unit-tests\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\ksmol\Programming\unit-tests\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ksmol\Programming\unit-tests\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ksmol\Programming\unit-tests\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\ksmol\Programming\unit-tests\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\ksmol\Programming\unit-tests\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

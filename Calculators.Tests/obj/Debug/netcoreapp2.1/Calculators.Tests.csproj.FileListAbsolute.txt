@@ -1,0 +1,4 @@
+C:\Users\ksmol\Programming\unit-tests\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.csprojAssemblyReference.cache
+C:\Users\ksmol\Programming\unit-tests\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ksmol\Programming\unit-tests\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.AssemblyInfoInputs.cache
+C:\Users\ksmol\Programming\unit-tests\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.AssemblyInfo.cs

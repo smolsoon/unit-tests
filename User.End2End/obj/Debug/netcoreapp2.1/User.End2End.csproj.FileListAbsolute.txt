@@ -1,0 +1,17 @@
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.End2End.deps.json
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.End2End.runtimeconfig.json
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.End2End.runtimeconfig.dev.json
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.End2End.dll
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.End2End.pdb
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.Api.dll
+c:\Users\ksmol\Programming\unit-tests\User.End2End\bin\Debug\netcoreapp2.1\User.Api.pdb
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.csprojAssemblyReference.cache
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.csproj.CoreCompileInputs.cache
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.AssemblyInfoInputs.cache
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.AssemblyInfo.cs
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.csproj.CopyComplete
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.dll
+c:\Users\ksmol\Programming\unit-tests\User.End2End\obj\Debug\netcoreapp2.1\User.End2End.pdb

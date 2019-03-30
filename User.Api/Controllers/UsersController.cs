@@ -23,7 +23,7 @@ namespace User.Api.Controllers {
         public async Task<IActionResult> Post ([FromBody] CreateUser command) {
             command.Id = Guid.NewGuid ();
             await _UserService.CreateAsync (command.Id, command.Firstname, command.Lastname, command.Age);
-            return Created ($"/User/{command.Id}", null);
+            return Created ($"/user/{command.Id}", null);
         }
     }
 
