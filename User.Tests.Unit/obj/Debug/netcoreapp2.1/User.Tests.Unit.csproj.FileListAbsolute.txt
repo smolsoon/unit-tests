@@ -1,0 +1,17 @@
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.csprojAssemblyReference.cache
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.AssemblyInfo.cs
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Tests.Unit.deps.json
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Tests.Unit.runtimeconfig.json
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Tests.Unit.runtimeconfig.dev.json
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Tests.Unit.dll
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Tests.Unit.pdb
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Api.dll
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\bin\Debug\netcoreapp2.1\User.Api.pdb
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.csproj.CopyComplete
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.dll
+C:\Users\ksmol\Programming\unit-tests\User.Tests.Unit\obj\Debug\netcoreapp2.1\User.Tests.Unit.pdb
